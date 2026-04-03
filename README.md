@@ -17,7 +17,8 @@ A lightweight desktop web browser built with Rust, FLTK, and WebView.
 
 Download the latest here:
 👉 [*(Download here)*](https://github.com/huyremy/Matilda-Mini-Browser/releases/download/v1.0.0/mini_browser.exe)
-
+--------
+<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/c2bf284c-317d-4a48-8fbd-3a900f593b86" />
 ---
 
 ## ⚠️ Requirements
@@ -68,7 +69,6 @@ Matilda License
 Matilda Mini Browser by HuyRemy - https://matilda.vn 
 
 
---------
-<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/c2bf284c-317d-4a48-8fbd-3a900f593b86" />
+
 
 
