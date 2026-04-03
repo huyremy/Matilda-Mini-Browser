@@ -59,7 +59,7 @@ If it is not installed on your system, the application may not start or display 
 
 ## 📄 License
 
-MIT License
+Matilda License
 
 ---
 
