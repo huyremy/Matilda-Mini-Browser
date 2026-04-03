@@ -16,7 +16,7 @@ A lightweight desktop web browser built with Rust, FLTK, and WebView.
 ## 📦 Download
 
 Download the latest here:
-👉 [*(Add your release link here)*](https://github.com/huyremy/Matilda-Mini-Browser/blob/main/mini_browser.exe)
+👉 [*(Download here)*](https://github.com/huyremy/Matilda-Mini-Browser/blob/main/mini_browser.exe)
 
 ---
 
