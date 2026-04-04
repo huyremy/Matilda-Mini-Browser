@@ -1,6 +1,6 @@
 # 🧭 Matilda Mini Browser
 
-A lightweight desktop web browser built with Rust, FLTK, and WebView.
+A lightweight desktop web browser built with Rust.
 
 ---
 
@@ -47,8 +47,6 @@ If it is not installed on your system, the application may not start or display 
 ## 🛠️ Built With
 
 * Rust
-* FLTK
-* WebView (wv)
 
 ---
 
