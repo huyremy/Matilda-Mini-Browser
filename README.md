@@ -21,7 +21,7 @@ A lightweight desktop web browser. But...Remember, M-Browser wasn't created to r
 ## 📦 Download
 
 Download the latest here:
-👉 [*(Download here)*]((https://github.com/huyremy/Matilda-Mini-Browser/releases/download/v0.3.2/M-Browser-Turbo.exe)
+👉 [*(Download here)*](https://github.com/huyremy/Matilda-Mini-Browser/releases/download/v0.3.2/M-Browser-Turbo.exe)
 --------
 
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a239d9c8-72e8-463e-8202-8afae5093f4d" />
