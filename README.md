@@ -31,7 +31,7 @@ Download the latest here:
 
 ## ⚠️ Requirements
 
-This application requires **Microsoft Edge WebView2 Runtime** to run.
+This application requires **Microsoft WebView2 Runtime** to run.
 
 If it is not installed on your system, the application may not start or display web content.
 
