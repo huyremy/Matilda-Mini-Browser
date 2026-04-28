@@ -13,7 +13,7 @@ A lightweight desktop web browser. But...Remember, M-Browser wasn't created to r
 * ⚡ Lightweight and fast
 * 🚫🥇🗣️ YouTube Without Ads, optimize web experience.
 * 🌍✍️🏆 Ext translate sellect text into Vietnamese (All languages to Vietnamese Only)
-* 🚀 Have no tab but new windows, increase performace, easy to End Task 
+* 🚀 Have no tab but new windows, increase performace, easy to End Task (Mod Tabs addon in Turbo vesion)
 * 🖥️ Native Windows application
 
 ---
